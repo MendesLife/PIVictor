@@ -9,6 +9,6 @@ dos clientes a cada ligação.
 <h1>Banco e Estrutura</h1>
 O banco foi realizado no Derby e o nome do banco de dados é cadastro_dirty
 
-Sua estrutura é formada com ID(INTEGER),NOME(VARCHAR 45),TELEFONE(VARCHAR 45),ENDEREÇO(VARCHAR 80).
+Sua estrutura é formada com ID(INTEGER) *chave primária, NOME(VARCHAR 45), TELEFONE(VARCHAR 45), ENDEREÇO(VARCHAR 80).
 
 <img width="850em" src="https://res.cloudinary.com/duyvaptsa/image/upload/v1649508511/Senai/Capturar_krrsq7.png">

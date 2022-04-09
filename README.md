@@ -7,7 +7,7 @@ O seu objeto é ter o cadastro e o controle de dados dos clientes com o objetivo
 dos clientes a cada ligação.
 
 <h1>Banco e Estrutura</h1>
-O nome do banco de dados é  cadastro_dirty
+O banco foi realizado no Derby e seu nome do banco de dados é cadastro_dirty
 
 E sua estrutura é formada com ID(INTEGER),NOME(VARCHAR 45),TELEFONE(VARCHAR 45),ENDEREÇO(VARCHAR 80).
 

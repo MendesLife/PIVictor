@@ -1,6 +1,5 @@
 # PIVictor
 
-A logo da empresa é:
 <img width="550em" src="https://res.cloudinary.com/duyvaptsa/image/upload/v1648834479/Senai/Logo_sem_fundo_3_i3r4ag.png">
 
 <h1>Objetivo</h1>
